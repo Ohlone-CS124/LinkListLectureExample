@@ -3,4 +3,4 @@ project(LinkedListLectureExample)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LinkedListLectureExample main.cpp)
+add_executable(LinkedListLectureExample main.cpp IntLinkList.cpp)
